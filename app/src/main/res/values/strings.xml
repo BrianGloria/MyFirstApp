@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="text">HELLO TVL - ICT!</string>
+    <string name="boop">BOOP</string>
+</resources>
